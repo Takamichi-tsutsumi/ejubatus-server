@@ -1,0 +1,2 @@
+# EJUBATUS server
+GraphQL
