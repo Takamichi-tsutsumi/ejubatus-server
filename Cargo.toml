@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["Takamichi-tsutsumi <takamichi_tsutsumi@waku-2.com>"]
 
 [dependencies]
+hyper = "0.11.2"
+futures = "0.1.14"
+diesel = "1.3.0"
+dotenv = "*"
